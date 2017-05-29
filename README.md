@@ -1,6 +1,6 @@
 ## Underwater Visibility Enhancement
 
-This repository contains the source code for [http://irap.kaist.ac.kr/publications/ycho-2017-icra.pdf](http://irap.kaist.ac.kr/publications/ycho-2017-icra.pdf) in ICRA 2017.
+This repository contains the source code for [Visibility Enhancement for Underwater Visual SLAM based on Underwater Light Scattering Model](http://irap.kaist.ac.kr/publications/ycho-2017-icra.pdf) in ICRA 2017.
 The matlab code is implemented on MATLAB R2015b. 
 
 ## Usage (WIP)
